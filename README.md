@@ -12,6 +12,8 @@ license: cc-by-nc-4.0
 
 # derm-cnn-ham10000
 
+[![HuggingFace Model](https://img.shields.io/badge/HuggingFace-Model-yellow.svg)](https://huggingface.co/iamhmh/derm-cnn-ham10000)
+
 **A convolutional neural network trained on the HAM10000 dataset for multi-class skin lesion classification.**
 
 This model predicts **7 skin lesion categories** from dermatoscopic images.  
